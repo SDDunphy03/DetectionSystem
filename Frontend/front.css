@@ -1,3 +1,8 @@
 #first{
     color: blue;
 }
+
+.enlargen-image {
+    transform: scale(2);
+    transform-origin: top left; /* Optional: controls where the scaling starts */
+}

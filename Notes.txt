@@ -1,0 +1,5 @@
+
+Couple things we need to forward to the Google APIs:
+1. The list of "known" cars.
+2. The images of the cars present on the driveway.
+3. 
